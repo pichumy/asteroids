@@ -1,0 +1,21 @@
+{
+  "name": "asteroids",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "keymaster": "^1.6.2",
+    "webpack": "^4.8.3"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.1.3"
+  }
+}
